@@ -1,0 +1,66 @@
+col_name,0,1,2,percentage_nonnull
+UNIQUEID,,,,0.0
+GRANTEEID,14-NY-254,12-GA-029,14-IL-198,100.0
+MODE,Online,IVR,Online,100.0
+LtCallDt,20211028,20211101,20211206,100.0
+LtCallST,13:43,16:38,06:13,100.0
+CallDurS,621,329,596,100.0
+CallDurM,10,5,10,100.0
+TotalTime,621.0,329.0,596.0,93.73
+LtCallR,,,,5.93
+LtCaseR,,,,5.91
+Date,2021-12-31 00:00:00,2021-12-31 00:00:00,2021-12-31 00:00:00,100.0
+HOUSEHOLD,2,3,1,100.0
+HEALTHCARE,Yes,Yes,No,100.0
+HEALTHCARE2,No,Yes,Valid skip,100.0
+Q1,Excellent,Average,Excellent,100.0
+Q1 Num,5,3,5,100.0
+Q2,Yes,No,No,100.0
+Q2A,Yes,Valid skip,Valid skip,100.0
+Q3_1,Yes,Yes,No,100.0
+Q3_1B,Excellent,Average,Valid skip,100.0
+Q3_2,Yes,No,Yes,100.0
+Q3_2B,Excellent,Valid skip,I did not receive assistance,100.0
+Q3_3A,Yes,No,Yes,100.0
+Q3_3A2,Excellent,Valid skip,I did not receive assistance,100.0
+Q3_3B,Yes,No,Yes,100.0
+Q3_3B2,Excellent,Valid skip,I did not receive assistance,100.0
+Q3_3C,Yes,Yes,No,100.0
+Q3_3C2,Excellent,I did not receive assistance,Valid skip,100.0
+Q3_3D,Yes,No,Yes,100.0
+Q3_3D2,Excellent,Valid skip,I did not receive assistance,100.0
+Q3_3E,Yes,No,No,100.0
+Q3_3E2,Excellent,Valid skip,Valid skip,100.0
+Q3_3F,Yes,No,No,100.0
+Q3_3F2,Excellent,Valid skip,Valid skip,100.0
+Q3_3G,No,No,No,100.0
+Q3_3G2,Valid skip,Valid skip,Valid skip,100.0
+Q3_3H,Yes,Yes,Yes,100.0
+Q3_3H2,Excellent,I did not receive assistance,Excellent,100.0
+Q4_A,Yes,Yes,Yes,100.0
+Q4_A2,Excellent,I did not receive assistance,Excellent,100.0
+Q4_B,No,No,No,100.0
+Q4_B2,Valid skip,Valid skip,Valid skip,100.0
+Q4_C,Yes,Yes,No,100.0
+Q4_C2,Excellent,I did not receive assistance,Valid skip,100.0
+Q4_D,No,Yes,No,100.0
+Q4_D2,Valid skip,I did not receive assistance,Valid skip,100.0
+Q4_E,No,No,No,100.0
+Q4_E2,Valid skip,Valid skip,Valid skip,100.0
+Q4,2,0,0,100.0
+Q5,Yes,Yes,No,100.0
+Q6,Very Satisfied,Very Satisfied,Very Satisfied,100.0
+Q7,Very Satisfied,Neither satisfied nor Dissatisfied,Very Satisfied,100.0
+Q8,Very Satisfied,Dissatisfied,Very Satisfied,100.0
+EXPERIENCE,Positive comments only,Negative comments only,Decline to provide comments,100.0
+Q9,,,,0.0
+Q10,,,,0.0
+Q11A,No,No,No,100.0
+Q11,,,,0.0
+Q13,White,White,"Black, African-American, or African",100.0
+Q14,Choose not to respond,Non-Hispanic/Non-Latin(a)(o)(x),Non-Hispanic/Non-Latin(a)(o)(x),100.0
+Q15,I choose not to respond,Heterosexual or straight,I choose not to respond,100.0
+Q16,Woman,Man,Man,100.0
+INT99,,,,5.56
+Q12,,,,4.78
+INT,'CO': Completed,'CO': Completed,'CO': Completed,94.01

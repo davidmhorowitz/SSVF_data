@@ -1,0 +1,96 @@
+col_name,0,1,2,percentage_nonnull
+ResponseID,557,558,559,100.0
+ResponseSet,Default Response Set,Default Response Set,Default Response Set,100.0
+IPAddress,,,,0.0
+StartDate,2016-04-23 13:33:00,2016-04-29 13:09:00,2016-04-29 12:59:00,45.84
+EndDate,2016-05-01 00:09:00,2016-05-01 00:09:00,2016-05-01 00:09:00,100.0
+RecipientLastName, , , ,7.14
+RecipientFirstName,,,,0.0
+RecipientEmail,,,,0.0
+ExternalDataReference,,,,0.0
+Finished,1.0,1.0,1.0,44.52
+Status,0,0,0,44.52
+va Cell Phone, , , ,7.14
+Response ID,,,,0.0
+Timestamp MM/dd/yyyy, , , ,53.46
+Custom Variable 1,Decatur Cooperative Ministry  Inc.,Salvation Army  a California Corporation,Families in Transition of Santa Cruz County  Inc.,100.0
+Custom Variable 2,13-GA-102,13-NV-118,14-CA-169,100.0
+Custom Variable 3,,,,0.0
+Custom Variable 4,,,,0.0
+Respondent Email,,,,0.0
+Region,GA,NV,CA,81.6
+How many people are in the veterans household including the veteran,,,,0.0
+Veterans First Name if first name is not provided  please type,,,,0.0
+Veterans Email Address yourname.com,,,,0.0
+Cell Phone XXX-XXX-XXXX 1-999-999-9999,,,,0.0
+UserAgent,,,,0.0
+Q_URL,,,,0.0
+Q35,1.0,1.0,1.0,95.95
+QIS,1,1,1,98.29
+QIVA,1,1,2,99.62
+Q1,1,4,4,100.0
+Q2,1,4,3,98.96
+Q3,2,5,1,98.59
+Q4,2,4,4,97.99
+Q5,2,1,2,97.39
+Q6,,1,,76.86
+Q7,,,,0.0
+F37,,,,0.0
+Q8 into,1,1,1,40.8
+Q8.1-1a,1,1,1,94.02
+Q8.1-1b,2,1,1,93.06
+Q8.1-1c_1,,4,4,80.49
+Q8.2-2a,1,1,1,92.98
+Q8.2-2b,2,1,1,92.17
+Q8.2-2c_1,,4,4,51.08
+Q8.3-a_1,1,1,,85.29
+Q8.3-a_2,1,1,,83.71
+Q8.3-a_3,1,2,,83.18
+Q8.3-a_4,2,1,1,83.1
+Q8.3-a_5,1,2,,84.68
+Q8.3-a_6,1,2,,80.82
+Q8.3-a_7,1,2,,78.45
+Q8.3-a_8,1,1,1,83.32
+Q8.3-b_1,2,1,,77.96
+Q8.3-b_2,2,1,,77.68
+Q8.3-b_3,2,2,,77.8
+Q8.3-b_4,2,1,1,77.43
+Q8.3-b_5,2,2,,78.73
+Q8.3-b_6,2,2,,74.27
+Q8.3-b_7,2,2,,71.62
+Q8.3-b_8,2,1,1,79.56
+Q8.3-c_1,,4,,38.95
+Q8.3-c_2,,4,,38.39
+Q8.3-c_3,,,,38.36
+Q8.3-c_4,,3,5,33.68
+Q8.3-c_5,,,,43.1
+Q8.3-c_6,,,,20.73
+Q8.3-c_7,,,,12.51
+Q8.3-c_8,,4,5,52.23
+Q8.4-a_1,1,1,1,87.17
+Q8.4-a_2,1,1,,83.85
+Q8.4-a_3,1,1,,84.71
+Q8.4-a_4,1,2,,81.48
+Q8.4-a_5,1,2,,81.56
+Q8.4-a_6,,2,,58.94
+Q8.4-a_6_TEXT, , , ,14.27
+Q8.4-b_1,2,1,1,84.47
+Q8.4-b_2,2,1,,79.39
+Q8.4-b_3,2,1,,81.36
+Q8.4-b_4,2,2,,75.94
+Q8.4-b_5,2,2,,76.84
+Q8.4-b_6,,2,,58.26
+Q8.4-b_6_TEXT, , , ,10.26
+Q8.4-c_1,,3,4,66.23
+Q8.4-c_2,,4,,39.66
+Q8.4-c_3,,5,,52.31
+Q8.4-c_4,,,,22.24
+Q8.4-c_5,,,,27.45
+Q8.4-c_6,,,,16.52
+Q8.4-c_6_TEXT, , , ,8.17
+Q15,4,1,1,87.63
+Q16,1,2,1,86.64
+Q17,1,2,1,86.36
+Q18,2,,1,37.43
+Negative,,,,13.69
+date range,2016-05-31 00:00:00,2016-05-31 00:00:00,2016-05-31 00:00:00,100.0
